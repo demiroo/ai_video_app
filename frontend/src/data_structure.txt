@@ -1,0 +1,35 @@
+{
+  "quiz": {
+    "topic": {
+      "text": ""
+    },
+    "intro": {
+      "text":"",
+      "audioUrl":"",
+      "backgroundImage":""
+    },
+    "outro": {
+      "text":"",
+      "audioUrl":"",
+      "backgroundImage":""
+    },
+    "quizzes": [
+      {
+        "answer": {
+          "text": "",
+          "answerAudioUrl":"",
+        },
+        "backgroundImage": "",
+        "options": {
+          "optionData": [],
+          "optionsAudioUrl":"",
+        },
+        "question": {
+          "text": "",
+          "questionAudioUrl": "",
+
+        }
+      }
+    ]
+  }
+}

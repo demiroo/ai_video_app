@@ -1,0 +1,59 @@
+{
+    "quiz": {
+            "topic": {
+                "text": "History"
+            },
+            "intro": {
+                "text": "Welcome to the History Quiz! Test your knowledge with these questions.",
+                "audioUrl": "http://localhost:3000/quiz/speech_5d06afde1f8c4c10c41451d9d3aa5ada.mp3",
+                "backgroundImage": "http://localhost:3000/quiz/image_381b3a4ee3fafea04a94b438261d4796.png"
+            },
+            "outro": {
+                "text": "Thank you for participating in the History Quiz. Hope you enjoyed it!",
+                "audioUrl": "http://localhost:3000/quiz/speech_56195f25b81149a39d77ad1a858b2dc3.mp3",
+                "backgroundImage": "http://localhost:3000/quiz/image_e8930a9b8f4de6baaf6f6d56c0e2e4b0.png"
+            },
+            "quizzes": [
+                {
+                    "answer": {
+                        "text": "A. 1776",
+                        "answerAudioUrl": "http://localhost:3000/quiz/speech_c5beaefdacf178939d2f3e5c35bbfaa5.mp3"
+                    },
+                    "backgroundImage": "http://localhost:3000/quiz/image_79803c3540f14712afb37c17b1e42a81.png",
+                    "options": {
+                        "optionData": [
+                            "A. 1776",
+                            "B. 1789",
+                            "C. 1804",
+                            "D. 1812"
+                        ],
+                        "optionsAudioUrl": "http://localhost:3000/quiz/speech_781492c3b18365d3edf2726bdcd9f317.mp3"
+                    },
+                    "question": {
+                        "text": "In which year did the American Declaration of Independence get signed?",
+                        "questionAudioUrl": "http://localhost:3000/quiz/speech_520e72fceb001e526d6144edfdc4cd26.mp3"
+                    }
+                },
+                {
+                    "answer": {
+                        "text": "C. Julius Caesar",
+                        "answerAudioUrl": "http://localhost:3000/quiz/speech_6d356bdd5deec6cb8d434bfdb30db48a.mp3"
+                    },
+                    "backgroundImage": "http://localhost:3000/quiz/image_74b392374826ffa1cbc1afd2759dfc74.png",
+                    "options": {
+                        "optionData": [
+                            "A. Augustus",
+                            "B. Nero",
+                            "C. Julius Caesar",
+                            "D. Caligula"
+                        ],
+                        "optionsAudioUrl": "http://localhost:3000/quiz/speech_4a2a081088c022c64fff9bb4f1aec284.mp3"
+                    },
+                    "question": {
+                        "text": "Who was assassinated on the Ides of March in 44 BC?",
+                        "questionAudioUrl": "http://localhost:3000/quiz/speech_fa91620a396677b1a80fd5dd2eadfc09.mp3"
+                    }
+                }
+            ]
+        }
+}
